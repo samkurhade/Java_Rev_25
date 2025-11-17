@@ -11,7 +11,7 @@ public class StringMethods {
 		//System.out.println(s);
 		
 		
-		//lenght() - returns length of the string
+		//length() - returns length of the string
 		String s="welcome";
 		
 		//int l=s.length();

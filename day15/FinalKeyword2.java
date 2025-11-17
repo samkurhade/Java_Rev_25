@@ -9,13 +9,13 @@ final class Test1
 }
 
 
-class Test2 extends Test1
-{
-	void m1()  /// incorrect. we cannot override final methods
-	{
-		System.out.println("this is m1 from Test2");
-	}
-}
+//class Test2 extends Test1
+//{
+//	void m1()  /// incorrect. we cannot override final methods
+//	{
+//		System.out.println("this is m1 from Test2");
+//	}
+//}
 
 
 

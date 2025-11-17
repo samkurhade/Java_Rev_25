@@ -22,7 +22,7 @@ public class ThrowKeyword {
 		ThrowKeyword tk=new ThrowKeyword();
 		try
 		{
-		tk.checksum(-1);
+		tk.checksum(-10);
 		}
 		catch(ArithmeticException e)
 		{
